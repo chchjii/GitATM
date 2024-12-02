@@ -1,4 +1,1 @@
-It's repository has a simple code for ATM.awda
-adadad
-asdad
-adasdsdwadw
+It's repository has a simple code for Egor Dranica.
